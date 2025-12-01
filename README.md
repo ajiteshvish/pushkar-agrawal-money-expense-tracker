@@ -571,7 +571,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 Lakshita Kannaujia
+Copyright (c) 2024 Pushkar Agrawal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -614,7 +614,7 @@ If you like this project, please consider:
 
 <div align="center">
 
-**Made with 💚 by Lakshita Kannaujia**
+**Made with 💚 by Pushkar Agrawal**
 
 ⬡ Built with Web3 Aesthetics ⬡
 
